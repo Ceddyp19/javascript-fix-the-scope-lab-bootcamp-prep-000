@@ -15,7 +15,7 @@ var animal = 'cat'
 
  return function innerAnimal() {
  
- return `${animal}` 
+  
   }  
 }
 
