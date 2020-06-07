@@ -19,7 +19,7 @@ var animal = 'cat'
   }  
 }
 
-yourAnimal();
+
 
 
 function add2(n) {
