@@ -20,7 +20,7 @@ function yourAnimal() {
 
 
 function add2(n) {
-  n = 1000;
+  
   const two = 2; 
   return n + two;
 
