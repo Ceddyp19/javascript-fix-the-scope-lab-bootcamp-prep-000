@@ -13,7 +13,7 @@ function yourAnimal() {
   // P.S.: Hard-coding 'cat' below will not work
 
 
- return function innerAnimal() {
+ return function yourInnerAnimal() {
  
   
   }  
